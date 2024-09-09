@@ -1,6 +1,5 @@
                     
-## HI, I am Plave 👋
-🔭 This is a place for projects I do in my free time
+## Hello 👋
 
 <!--
 **plave0/plave0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
